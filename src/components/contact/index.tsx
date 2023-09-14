@@ -12,7 +12,7 @@ export const Contact = () => {
             <SectionTitle>Contact me</SectionTitle>
             <Container>
                 <Info>
-                    <h1>DON'T BE SHY !</h1>
+                    <h1>{"DON'T BE SHY !"}</h1>
                     <p>Feel free to get in touch with me. I am always open to discussing new projects, creative ideas or opportunities to be part of your visions.</p>
                     <ContactComponent>
                         <AiFillMail />

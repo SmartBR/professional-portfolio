@@ -15,7 +15,7 @@ export const Main = () => {
                     Hello
                     <AiFillSmile />
                 </PrimaryText>
-                <WhiteText>I'm Emily</WhiteText>
+                <WhiteText>{"I'm Emily"}</WhiteText>
                 <JobText>Web Designer</JobText>
                 <Button onClick={() => scroller.scrollTo("about-me", {
                     duration: 900,
